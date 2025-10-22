@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Minimal theme for Compose apps -->
+    <style name="Theme.AppComposableKotlin" parent="Theme.MaterialComponents.DayNight.NoActionBar"/>
+
+
+</resources>
